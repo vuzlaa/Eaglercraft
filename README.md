@@ -6,7 +6,7 @@ This is Eaglercraft 1.5.2, survival and multiplayer work. You can only connect t
 1. wss://web.asspixel.net/CAP/
  Hypixel clone, skyblock, etc.
  
- If you want to  download a clean version of this, go to [this](https://github.com/vuzlaa/EAGLERDOWNLOAD)link
+ If you want to  download a clean version of this, go to [this](https://github.com/vuzlaa/EAGLERDOWNLOAD) link
  
  Have fun, credits to lax1dude, Ayunami2000, and anyone else who worked on the Eaglercraft project, in any minor or major way.
  
